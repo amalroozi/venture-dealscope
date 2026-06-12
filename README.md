@@ -41,7 +41,7 @@ cd venture-dealscope
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env  # add your Groq API key
+cp .env.example .env  # add your Groq/Other LLM API key (Groq because it has a free tier)
 # place objects.csv from Kaggle into data/
 streamlit run app.py
 ```
