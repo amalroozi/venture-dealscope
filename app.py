@@ -10,8 +10,8 @@ from src.llm import label_clusters
 
 st.set_page_config(page_title="Venture DealScope", layout="wide")
 
-st.title(" Venture DealScope")
-st.caption("Discover, cluster, and rank startups by sector: find where the dry powder goes. Meant to reduce the work of VCs")
+st.title(" Venture Dealscope")
+st.caption("Discover where investors are deploying capital and which startups are gaining momentum. Automatically cluster and rank startups by sector to accelerate deal sourcing for Venture Capitals.")
 
 @st.cache_data
 def load_and_embed():
