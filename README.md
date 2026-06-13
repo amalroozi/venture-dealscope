@@ -1,4 +1,8 @@
 ## Venture Dealscope
+
+
+Live at [venturedealscope.streamlit.app](https://venturedealscope.streamlit.app)
+
 Dealscope is a venture capital deal flow analyzer that discovers, clusters, and scores startups by sector to surface the most fundable opportunities.  (Saves VC hours of manual research)
 
 
